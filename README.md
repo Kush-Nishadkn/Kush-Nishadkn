@@ -1,6 +1,6 @@
 
 # Display<div align="center" >
-  <img width="400" src="[https://media.ggiphy.gifiphy.com/media/L1R1tvI9svkIWwpVYr/](https://media3.giphy.com/media/Ws6T5PN7wHv3cY8xy8/200.webp?cid=790b7611t2ccanbbynq7fgiunu3xwb47jmeyhx9nuu5omvsw&ep=v1_gifs_search&rid=200.webp&ct=g)" alt="coding">
+  <img width="400" src="https://media3.giphy.com/media/Ws6T5PN7wHv3cY8xy8/200.webp?cid=790b76112pgf6cah3fk47reww3l3ee27ofq2njk8grz9d67t&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Kush Kumar</h1>
