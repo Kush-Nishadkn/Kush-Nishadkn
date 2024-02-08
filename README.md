@@ -1,6 +1,6 @@
 
 # Display<div align="center" >
-  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+  <img width="400" src="[https://media.ggiphy.gifiphy.com/media/L1R1tvI9svkIWwpVYr/](https://media3.giphy.com/media/Ws6T5PN7wHv3cY8xy8/200.webp?cid=790b7611t2ccanbbynq7fgiunu3xwb47jmeyhx9nuu5omvsw&ep=v1_gifs_search&rid=200.webp&ct=g)" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Kush Kumar</h1>
