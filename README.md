@@ -1,3 +1,4 @@
+
 # Display<div align="center" >
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
 </div>
@@ -11,15 +12,15 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a sophomore at **IIIT Gwalior studying Computer Science**
+- 👩‍🎓 I'm a student at Coding Blocks**
 
 - 🔭 I’m looking to contribute to **Open Source**
 
 - 🌱 I’m currently exploring **Machine learning**
 
-- 👨‍💻 Know me more <a href="https://sakshi-goyat-portfolio.netlify.app" style="text-decoration: none;">Portfolio</a>
 
-- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sakshigoyat14@gmail.com" style="text-decoration: none;">Email</a>
+
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nkush995@gmail.com" style="text-decoration: none;">Email</a>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -52,10 +53,9 @@
   
 <h4> 📬 Reach me out </h4>
 <p align="left">
-<a href = "https://www.linkedin.com/in/sakshi-goyat/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sakshi_goyat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sakshi_goyat_14/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://leetcode.com/sakshigoyat14/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
-  <a href = "https://auth.geeksforgeeks.org/user/sakshigoyat14"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
+<a href = "https://www.linkedin.com/in/kush-kkn/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+<a href = "https://leetcode.com/kushkumargg/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
+  
 
 </p>
