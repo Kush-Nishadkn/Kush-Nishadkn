@@ -1,6 +1,9 @@
 <!--# नमस्ते (Namaste)🙏, I'mK Kush!-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=43&pause=1000&color=03FA6EFF&center=true&vCenter=true&repeat=false&random=false&width=1024&height=100&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87(Namaste)%F0%9F%99%8F%2C+I'm+Meet!)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Kush Kumar</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16FF23&random=false&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+I%2Cm+Kush+Nishad)](https://git.io/typing-svg)
+<hr>
+<img align='center' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Kush-Nishadkn/Kush-Nishadkn/blob/main/gifcoding.gif">
 
