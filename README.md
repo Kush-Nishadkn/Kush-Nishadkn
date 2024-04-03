@@ -1,7 +1,7 @@
 <!--# नमस्ते (Namaste)🙏, I'mK Kush!-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16FF23&random=false&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+I%2Cm+Kush+Nishad)](https://git.io/typing-svg)
 <hr>
-<img align='center' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align='center' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1ILncIkowDJdEffAKHgR0Z&ust=1712222384452000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCh-MnbpYUDFQAAAAAdAAAAABAJ">
 
 
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
